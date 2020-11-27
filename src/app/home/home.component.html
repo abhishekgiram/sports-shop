@@ -1,6 +1,7 @@
-<div *ngFor="let product of products">
-  <div>{{product.name}}</div>
-  <div>{{product.description}}</div>
+<div class="product_list" *ngFor="let product of products">
+  <div  class="product_name">{{product.name}}</div>
   <img src={{product.imageUrl}}>
-  <div>{{product.price}}</div>
+  <div class="product_description">{{product.description}}</div>
+  <div class="product_price">{{product.price}}</div>
+  <button class="add_product"  (click)="addProductToCart($event)" > Add to cart</button>
 </div>

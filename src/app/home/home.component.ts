@@ -7,8 +7,11 @@ import product from "../../assets/product.json";
 })
 export class HomeComponent implements OnInit {
   products:any=[];
+  cartProductList:any=[];
   constructor() { }
-
+   addProductToCart(name) {
+   console.log("product adde successfully",name);
+ }
   ngOnInit() {
     this.products=product;
   }
