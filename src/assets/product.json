@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Cricket Bat",
+        "description": "CEAT Alpha Tennis Cricket Bat (Size 6)",
+        "price": " Rs 320.00",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71BbvAKKipL._SL1500_.jpg",
+        "quantity": 56840
+    },
+    {
+        "id": 2,
+        "name": "tennis ball cricket",
+        "description": "Headly Light Yellow Cricket Tennis Ball",
+        "price": " Rs 90.00",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81gqm4EwBmL._SL1500_.jpg",
+        "quantity": 9358
+    },
+    {
+        "id": 3,
+        "name": "Stumps",
+        "description": "Redway Plastic Wicket Set Color Yellow, Stump Set Large",
+        "price": "Rs 500.00",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61GJiILGgNL._SL1400_.jpg",
+        "quantity": 90316
+    }
+]
